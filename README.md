@@ -1,0 +1,2 @@
+# iblog
+static  website
